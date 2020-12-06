@@ -1,0 +1,8 @@
+cmake-build-debug
+*.exe
+*.o
+*.dll
+*.so
+*.dylib
+*.iml
+.idea
